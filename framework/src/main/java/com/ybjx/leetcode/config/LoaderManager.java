@@ -2,10 +2,7 @@ package com.ybjx.leetcode.config;
 
 import com.google.common.base.Strings;
 import com.ybjx.leetcode.common.LeetCodeException;
-import com.ybjx.leetcode.config.loader.ArrayLoader;
-import com.ybjx.leetcode.config.loader.DefaultLoader;
-import com.ybjx.leetcode.config.loader.IObjectLoader;
-import com.ybjx.leetcode.config.loader.TypeConstant;
+import com.ybjx.leetcode.config.loader.*;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -32,6 +29,9 @@ public class LoaderManager {
         loaders.put(TypeConstant.VOID, new DefaultLoader());
         loaders.put(TypeConstant.STRING, new DefaultLoader());
         loaders.put(TypeConstant.ARRAY, new ArrayLoader());
+        loaders.put(TypeConstant.LIST, new ListLoader());
+        loaders.put(TypeConstant.OBJECT, new ObjectLoader());
+        loaders.put(TypeConstant.LIST_NODE, new ListNodeLoader());
     }
 
     /**
