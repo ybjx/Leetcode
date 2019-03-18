@@ -95,6 +95,11 @@ public class TypeConstant {
     public final static String JSON_FIELD_PARAM_RESULT = "param-result";
 
     /**
+     * 参数返回值的位置
+     */
+    public final static String JSON_FIELD_PARAM_RESULT_INDEX = "param-result-index";
+
+    /**
      * 默认类型对应的class映射
      */
     final static Map<String, Class> CLASS_MAP = new HashMap<String, Class>();
