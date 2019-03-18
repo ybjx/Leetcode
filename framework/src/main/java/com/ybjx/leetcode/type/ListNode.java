@@ -1,5 +1,7 @@
 package com.ybjx.leetcode.type;
 
+import com.ybjx.leetcode.common.Constant;
+
 /**
  * 链表数据类型
  * @author ybjx
@@ -39,16 +41,16 @@ public class ListNode {
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
-        builder.append("[").append(this.val);
+        builder.append(Constant.LEFT_SQUARE_BRACKET).append(this.val);
         if(next != null){
             String n = next.toString();
-            if(n.startsWith("[")){
+            if(n.startsWith(Constant.LEFT_SQUARE_BRACKET)){
                 n = n.substring(1);
             }
-            builder.append(",").append(n);
+            builder.append(Constant.COMMA).append(n);
         }
         else{
-            builder.append("]");
+            builder.append(Constant.RIGHT_SQUARE_BRACKET);
         }
         return builder.toString();
     }
