@@ -2,7 +2,8 @@ package com.ybjx.leetcode.config.loader;
 
 /**
  * 测试数据加载接口
- * create by YuBing at 2019/3/18
+ * @author ybjx
+ * @date 2019/3/18 22:00
  */
 public interface IObjectLoader {
 

@@ -7,7 +7,8 @@ import java.lang.annotation.Target;
 
 /**
  * 标记自定义结果判断方法的注解
- * create by YuBing at 2019/3/18
+ * @author ybjx
+ * @date 2019/3/18 22:37
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)

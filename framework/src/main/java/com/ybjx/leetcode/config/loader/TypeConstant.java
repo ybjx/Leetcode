@@ -1,8 +1,12 @@
 package com.ybjx.leetcode.config.loader;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 数据加载使用到的常量
- * create by YuBing at 2019/3/18
+ * @author ybjx
+ * @date 2019/3/18 22:37
  */
 public class TypeConstant {
     /**
@@ -89,4 +93,25 @@ public class TypeConstant {
      * json文件中的参数结果字段名称
      */
     public final static String JSON_FIELD_PARAM_RESULT = "param-result";
+
+    /**
+     * 默认类型对应的class映射
+     */
+    final static Map<String, Class> CLASS_MAP = new HashMap<String, Class>();
+
+    static{
+        CLASS_MAP.put(INT, int.class);
+        CLASS_MAP.put(INT.toUpperCase(), Integer.class);
+        CLASS_MAP.put(FLOAT, float.class);
+        CLASS_MAP.put(FLOAT.toUpperCase(), Float.class);
+        CLASS_MAP.put(LONG, long.class);
+        CLASS_MAP.put(LONG.toUpperCase(), Long.class);
+        CLASS_MAP.put(DOUBLE, double.class);
+        CLASS_MAP.put(DOUBLE.toUpperCase(), Double.class);
+        CLASS_MAP.put(BOOLEAN, boolean.class);
+        CLASS_MAP.put(BOOLEAN.toUpperCase(), Boolean.class);
+        CLASS_MAP.put(CHAR, char.class);
+        CLASS_MAP.put(CHAR.toUpperCase(), Character.class);
+        CLASS_MAP.put(STRING, String.class);
+    }
 }
