@@ -7,5 +7,5 @@ import org.junit.runner.RunWith;
  * @date 2019/3/19 22:21
  */
 @RunWith(LeetCodeRunner.class)
-public interface AbstractSolution {
+public class AbstractSolution {
 }
