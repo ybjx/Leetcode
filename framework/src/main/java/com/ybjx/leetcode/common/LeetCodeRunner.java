@@ -23,6 +23,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * 自定义leetcode junit执行器
  * @author ybjx
  * @date 2019/3/19 22:21
  */
@@ -133,7 +134,19 @@ public class LeetCodeRunner extends Runner implements Filterable {
         }
     }
 
+    /**
+     * 执行指定方法时会进行guol
+     * @param filter 过滤取
+     * @throws NoTestsRemainException
+     */
     public void filter(Filter filter) throws NoTestsRemainException {
+        needRunDescriptionList = new ArrayList<Description>();
+        for(Method method: methods){
+            Description desc = Description.createTestDescription(this.targetClass, method.getName());
+            if(filter.shouldRun(desc)){
+                needRunDescriptionList.add(getMethodDescription(method));
+            }
+        }
     }
 
     /**
