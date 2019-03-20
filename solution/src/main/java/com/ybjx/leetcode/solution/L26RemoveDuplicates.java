@@ -7,7 +7,7 @@ import com.ybjx.leetcode.common.AbstractSolution;
  * @author ybjx
  * @date 2019/3/19 23:51
  */
-public class RemoveDuplicates26 extends AbstractSolution {
+public class L26RemoveDuplicates extends AbstractSolution {
 
     @LeetCodeSolution
     public int solution(int [] nums){

@@ -7,7 +7,7 @@ import com.ybjx.leetcode.common.AbstractSolution;
  * @author ybjx
  * @date 2019/3/19 23:23
  */
-public class StrStr28 extends AbstractSolution {
+public class L28StrStr extends AbstractSolution {
 
     @LeetCodeSolution
     public int solution(String haystack, String needle){
