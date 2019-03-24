@@ -1,0 +1,50 @@
+{
+  "type": {
+    "result": "array:int",
+    "param": [
+      "array:int", "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        [2,7,11,15],
+        9
+      ],
+      "result":[
+        [0,1]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        [3,2,4],
+        6
+      ],
+      "result":[
+        [1,2]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        [3,3],
+        6
+      ],
+      "result":[
+        [0,1]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        [3,2,3],
+        6
+      ],
+      "result":[
+        [0,2]
+      ]
+    }
+  ]
+}
