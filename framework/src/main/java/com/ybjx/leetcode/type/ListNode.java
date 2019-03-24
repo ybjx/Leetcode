@@ -18,6 +18,12 @@ public class ListNode {
      */
     public ListNode next;
 
+    /**
+     * 构造方法
+     * @param x 节点的值
+     */
+    public ListNode(int x) { val = x; }
+
     @Override
     public boolean equals(Object obj) {
         if(obj == null){

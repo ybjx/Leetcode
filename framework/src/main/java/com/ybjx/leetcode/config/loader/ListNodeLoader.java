@@ -25,12 +25,10 @@ public class ListNodeLoader implements IObjectLoader {
             return null;
         }
 
-        ListNode header = new ListNode();
-        header.val = array.getInteger(0);
+        ListNode header = new ListNode(array.getInteger(0));
         ListNode p = header;
         for(int i = 1; i < array.size(); i++){
-            ListNode temp = new ListNode();
-            temp.val = array.getInteger(i);
+            ListNode temp = new ListNode(array.getInteger(i));
             p.next = temp;
             p = temp;
         }
