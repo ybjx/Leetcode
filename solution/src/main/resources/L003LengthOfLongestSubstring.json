@@ -1,0 +1,37 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        "abcabcbb"
+      ],
+      "result":[
+        3
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "bbbbb"
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "pwwkew"
+      ],
+      "result":[
+        3
+      ]
+    }
+  ]
+}
