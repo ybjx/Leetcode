@@ -1,0 +1,30 @@
+{
+  "type": {
+    "result": "double",
+    "param": [
+      "array:int", "array:int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        [1,3],
+        [2]
+      ],
+      "result":[
+        2
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        [1,2],
+        [3,4]
+      ],
+      "result":[
+        2.5
+      ]
+    }
+  ]
+}
