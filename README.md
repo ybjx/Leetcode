@@ -2,9 +2,9 @@
 <br>
 <br>
 头条号：
-<img src="http://java-code.net/img/toutiao.jpeg" width = "100" height = "100"/>　　
+<img src="http://java-code.net/img/toutiao.jpeg" width = "150" height = "150"/>　　
 微信公众号：
-<img src="http://java-code.net/img/weixin.jpg" width = "100" height = "100"/>
+<img src="http://java-code.net/img/weixin.jpg" width = "150" height = "150"/>
 <br>
 <br>
 
