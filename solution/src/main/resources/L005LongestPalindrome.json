@@ -1,0 +1,28 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "babad1234567"
+      ],
+      "result":[
+        "bab","aba"
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "cbbd1234567"
+      ],
+      "result":[
+        "bb"
+      ]
+    }
+  ]
+}
