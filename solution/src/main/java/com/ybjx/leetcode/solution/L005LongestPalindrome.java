@@ -4,6 +4,16 @@ import com.ybjx.leetcode.annotation.LeetCodeSolution;
 import com.ybjx.leetcode.common.AbstractSolution;
 
 /**
+ * 题目地址：https://leetcode-cn.com/problems/longest-palindromic-substring/
+ * 题目：
+ *     给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为 1000。
+ * 示例1：
+ *     输入: "babad"
+ *     输出: "bab"
+ *     注意: "aba" 也是一个有效答案。
+ * 示例2：
+ *     输入: "cbbd"
+ *     输出: "bb"
  * @author ybjx
  * @date 2019/3/31 20:34
  */
@@ -56,14 +66,13 @@ public class L005LongestPalindrome extends AbstractSolution {
         int left = 0;
         int right = 0;
         for(int i = 0; i < s.length(); i++){
-            for(int j = 0; j < i; j ++){
+            for(int j = 0; j <= i; j ++){
                 temp[i][j] = (s.charAt(i) == s.charAt(j) && (i - j < 2 || temp[i - 1][j + 1]));
                 if(temp[i][j] && i - j > right - left){
                     left = j;
                     right = i;
                 }
             }
-            temp[i][i] = true;
         }
         return s.substring(left, right + 1);
     }
@@ -94,6 +103,8 @@ public class L005LongestPalindrome extends AbstractSolution {
                 resultIndex = i;
             }
         }
-        return s.substring((resultIndex - resultMax)/2, (resultIndex - resultMax)/2 + resultMax - 1);
+        int start = (resultIndex - resultMax)/2;
+        int end = start + resultMax - 1;
+        return s.substring(start, end);
     }
 }
