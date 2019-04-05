@@ -1,0 +1,31 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "string",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "LEETCODEISHIRING",
+        3
+      ],
+      "result":[
+        "LCIRETOESIIGEDHN"
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "LEETCODEISHIRING",
+        4
+      ],
+      "result":[
+        "LDREOEIIECIHNTSG"
+      ]
+    }
+  ]
+}
