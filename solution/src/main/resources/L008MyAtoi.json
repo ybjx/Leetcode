@@ -1,0 +1,46 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "42"
+      ],
+      "result":[
+        42
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "4193 with words"
+      ],
+      "result":[
+        4193
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "words and 987"
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "-91283472332"
+      ],
+      "result":[
+        -2147483648
+      ]
+    }
+  ]
+}
