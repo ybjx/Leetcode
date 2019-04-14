@@ -1,0 +1,61 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "aa",
+        "a"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "aa",
+        "a*"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "ab",
+        ".*"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "aab",
+        "c*a*b"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "mississippi",
+        "mis*is*p*."
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}
