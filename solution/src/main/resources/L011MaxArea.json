@@ -1,0 +1,19 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "array:int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        [1,8,6,2,5,4,8,3,7]
+      ],
+      "result":[
+        49
+      ]
+    }
+  ]
+}
