@@ -1,0 +1,37 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        121
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        -121
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        10
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}
