@@ -42,30 +42,39 @@ public class L008MyAtoi extends AbstractSolution {
     @LeetCodeSolution
     public int solution(String str){
         int result = 0;
-        int len = str.length();
-        int tag = 0;
-        for(int i= 0; i < len; i++){
+        int sign = 1;
+        int max = Integer.MAX_VALUE/10;
+        int min = Integer.MIN_VALUE/10;
+        boolean found = false;
+        for(int i= 0; i < str.length(); i++){
             char ch = str.charAt(i);
             if(ch >= '0' && ch <= '9'){
                 int t = ch - '0';
-                if (result > Integer.MAX_VALUE/10 || (result == Integer.MAX_VALUE / 10 && t > 7)) return Integer.MAX_VALUE;
-                if (result < Integer.MIN_VALUE/10 || (result == Integer.MIN_VALUE / 10 && t > 8)) return Integer.MIN_VALUE;
-                if(tag == 0){
-                    tag = 1;
+                if (result > max || (result == max && t > 7)) {
+                    return Integer.MAX_VALUE;
                 }
-                result = result * 10 + t*tag;
-                continue;
+                if (result < min || (result == min && t > 8)) {
+                    return Integer.MIN_VALUE;
+                }
+                result = result * 10 + t*sign;
+                found = true;
             }
-            if(tag == 0){
-                if(ch == '-'){
-                    tag = -1;
-                } else if(ch == '+'){
-                    tag = 1;
-                } else if(ch != ' '){
+            else{
+                if(found){
                     return result;
                 }
-            } else{
-                return result;
+                else{
+                    if(ch == '-'){
+                        sign = -1;
+                        found = true;
+                    }
+                    else if(ch == '+'){
+                        found = true;
+                    }
+                    else if(ch != ' '){
+                        return result;
+                    }
+                }
             }
         }
 
