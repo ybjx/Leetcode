@@ -67,7 +67,7 @@ public class LoaderManager {
     private static String[] getTypes(String type){
         int index = type.indexOf(":");
         if(index == -1){
-            return new String[] {type, type};
+            return new String[] {type.toLowerCase(), type};
         }
         else{
             String t = type.substring(0, index);
@@ -87,7 +87,7 @@ public class LoaderManager {
     private static IObjectLoader getLoader(String type){
         IObjectLoader loader = loaders.get(type);
         if(loader == null){
-            throw new LeetCodeException("不支持的数据类型！");
+            throw new LeetCodeException("不支持的数据类型：" + type);
         }
         return loader;
     }
