@@ -1,0 +1,28 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "array:string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        ["flower","flow","flight"]
+      ],
+      "result":[
+        "fl"
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        ["dog","racecar","car"]
+      ],
+      "result":[
+        ""
+      ]
+    }
+  ]
+}
