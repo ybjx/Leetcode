@@ -1,0 +1,55 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "III"
+      ],
+      "result":[
+        3
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "IV"
+      ],
+      "result":[
+        4
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "IX"
+      ],
+      "result":[
+        9
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "LVIII"
+      ],
+      "result":[
+        58
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "MCMXCIV"
+      ],
+      "result":[
+        1994
+      ]
+    }
+  ]
+}
