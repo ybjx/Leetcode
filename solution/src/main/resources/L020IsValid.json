@@ -1,0 +1,64 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        "()"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "()[]{}"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "(]"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "([)]"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "{[]}"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "times": 1000000,
+      "param": [
+        "["
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}
