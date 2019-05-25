@@ -1,0 +1,19 @@
+{
+  "type": {
+    "result": "list-node",
+    "param": [
+      "list-node"
+    ]
+  },
+  "data": [
+    {
+      "times": 1000000,
+      "param": [
+        [1,2,3,4]
+      ],
+      "result":[
+        [2,1,4,3]
+      ]
+    }
+  ]
+}
