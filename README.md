@@ -35,3 +35,4 @@
 |[![](./img/hard.svg) 023](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|合并K个排序链表|[L023MergeKLists.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L023MergeKLists.java)|
 |[![](./img/middle.svg) 024](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|两两交换链表中的节点|[L024SwapPairs.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L024SwapPairs.java)|
 |[![](./img/hard.svg) 025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|k个一组翻转链表|[L025ReverseKGroup.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L025ReverseKGroup.java)|
+|[![](./img/easy.svg) 026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|删除排序数组中的重复项|[L026RemoveDuplicates.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L026RemoveDuplicates.java)|
