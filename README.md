@@ -1,4 +1,10 @@
-<style>easy{color:red;}</style>
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+
 扫码关注
 <br>
 <br>
