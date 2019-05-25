@@ -10,10 +10,29 @@
     {
       "times": 1,
       "param": [
-        "barfoothefoobarman",
+        "wordgoodgoodgoodbestword",
+        ["word","good","best","good"]
+      ],
+      "result":[
+        [8]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "",
         [
-          ["foo","bar"]
         ]
+      ],
+      "result":[
+        []
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "barfoothefoobarman",
+        ["foo","bar"]
       ],
       "result":[
         [0,9]
