@@ -1,7 +1,9 @@
 package com.ybjx.leetcode.solution;
 
+import com.ybjx.leetcode.annotation.JudgeMethod;
 import com.ybjx.leetcode.annotation.LeetCodeSolution;
 import com.ybjx.leetcode.common.AbstractSolution;
+import com.ybjx.leetcode.common.LeetCodeException;
 
 /**
  * 题目地址：https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
@@ -22,6 +24,15 @@ import com.ybjx.leetcode.common.AbstractSolution;
  * @date 2019/3/19 23:51
  */
 public class L026RemoveDuplicates extends AbstractSolution {
+
+    @JudgeMethod
+    public void judge(int count, int[] param, int[] result){
+        for(int i = 0; i < count; i++){
+            if(param[i] != result[i]){
+                throw new LeetCodeException("自定义结果校验不通过");
+            }
+        }
+    }
 
     @LeetCodeSolution
     public int solution(int [] nums){

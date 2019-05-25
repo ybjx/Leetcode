@@ -3,6 +3,9 @@
     "result": "int",
     "param": [
       "array:int"
+    ],
+    "param-result-index":[
+      0
     ]
   },
   "data": [
@@ -13,6 +16,9 @@
       ],
       "result": [
         2
+      ],
+      "param-result":[
+        [1,2]
       ]
     },
     {
@@ -22,6 +28,9 @@
       ],
       "result": [
         1
+      ],
+      "param-result":[
+        [2]
       ]
     },
     {
@@ -31,6 +40,9 @@
       ],
       "result": [
         5
+      ],
+      "param-result":[
+        [0,1,2,3,4]
       ]
     }
   ]
