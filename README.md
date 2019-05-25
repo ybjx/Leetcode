@@ -8,10 +8,10 @@
 <br>
 <br>
 
-|编号|名称|代码|难度|
-|----|---|----|----|  
-|[001](https://leetcode-cn.com/problems/two-sum/)|[两数之和](http://java-code.net/article/detail/11)|[L001TwoSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L001TwoSum.java)|[![](./img/easy.svg)](https://leetcode-cn.com/problems/two-sum/)|  
-|[002](https://leetcode-cn.com/problems/add-two-numbers/)|[两数相加](http://java-code.net/article/detail/12)|[L002AddTwoNumbers.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L002AddTwoNumbers.java)|  
+|编号|名称|代码|
+|----|---|----|
+|[![](./img/easy.svg) 001](https://leetcode-cn.com/problems/two-sum/)|[两数之和](http://java-code.net/article/detail/11)|[L001TwoSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L001TwoSum.java)|
+|[002](https://leetcode-cn.com/problems/add-two-numbers/)|[两数相加](http://java-code.net/article/detail/12)|[L002AddTwoNumbers.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L002AddTwoNumbers.java)|
 |[003](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[无重复字符的最长子串](http://java-code.net/article/detail/13)|[L003LengthOfLongestSubstring.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L003LengthOfLongestSubstring.java)|
 |[004](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[寻找两个有序数组的中位数](http://java-code.net/article/detail/14)|[L004FindMedianSortedArrays.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L004FindMedianSortedArrays.java)|
 |[005](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[最长回文子串](http://java-code.net/article/detail/15)|[L005LongestPalindrome.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L005LongestPalindrome.java)|
