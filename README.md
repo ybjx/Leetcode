@@ -46,3 +46,4 @@
 |[![](./img/middle.svg) 034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|在排序数组中查找元素的第一个和最后一个位置|[L034SearchRange.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L034SearchRange.java)|
 |[![](./img/easy.svg) 035](https://leetcode-cn.com/problems/search-insert-position/)|搜索插入位置|[L035SearchInsert.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L035SearchInsert.java)|
 |[![](./img/middle.svg) 036](https://leetcode-cn.com/problems/valid-sudoku/)|有效的数独|[L036IsValidSudoku.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L036IsValidSudoku.java)|
+|[![](./img/hard.svg) 037](https://leetcode-cn.com/problems/sudoku-solver/)|解数独|[L037SolveSudoku.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L037SolveSudoku.java)|
