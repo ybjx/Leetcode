@@ -1,0 +1,31 @@
+{
+  "type": {
+    "result": "array:int",
+    "param": [
+      "array:int",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        [5,7,7,8,8,10],
+        8
+      ],
+      "result":[
+        [3,4]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        [5,7,7,8,8,10],
+        6
+      ],
+      "result":[
+        [-1,-1]
+      ]
+    }
+  ]
+}
