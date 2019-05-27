@@ -1,0 +1,55 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        1
+      ],
+      "result":[
+        "1"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        2
+      ],
+      "result":[
+        "11"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        3
+      ],
+      "result":[
+        "21"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        4
+      ],
+      "result":[
+        "1211"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        5
+      ],
+      "result":[
+        "111221"
+      ]
+    }
+  ]
+}
