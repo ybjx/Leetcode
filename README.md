@@ -50,3 +50,4 @@
 |[![](./img/easy.svg) 038](https://leetcode-cn.com/problems/count-and-say/submissions/)|报数|[L038CountAndSay.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L038CountAndSay.java)|
 |[![](./img/middle.svg) 039](https://leetcode-cn.com/problems/combination-sum/)|组合总和|[L039CombinationSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L039CombinationSum.java)|
 |[![](./img/middle.svg) 040](https://leetcode-cn.com/problems/combination-sum-ii/)|组合总和 II|[L040CombinationSum2.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L040CombinationSum2.java)|
+|[![](./img/hard.svg) 041](https://leetcode-cn.com/problems/first-missing-positive/)|缺失的第一个正数|[L041FirstMissingPositive.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L041FirstMissingPositive.java)|

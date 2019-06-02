@@ -3,6 +3,9 @@ package com.ybjx.leetcode.solution;
 import com.ybjx.leetcode.annotation.LeetCodeSolution;
 import com.ybjx.leetcode.common.AbstractSolution;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.HashMap;
 
 /**
@@ -17,7 +20,7 @@ import java.util.HashMap;
  * @author ybjx
  * @date 2019/3/24 12:18
  */
-public class L001TwoSum extends AbstractSolution {
+public class L001TwoSum  {
 
     @LeetCodeSolution(name = "双循环解法")
     public int[] solution1(int[] nums, int target){
