@@ -51,3 +51,4 @@
 |[![](./img/middle.svg) 039](https://leetcode-cn.com/problems/combination-sum/)|组合总和|[L039CombinationSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L039CombinationSum.java)|
 |[![](./img/middle.svg) 040](https://leetcode-cn.com/problems/combination-sum-ii/)|组合总和 II|[L040CombinationSum2.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L040CombinationSum2.java)|
 |[![](./img/hard.svg) 041](https://leetcode-cn.com/problems/first-missing-positive/)|缺失的第一个正数|[L041FirstMissingPositive.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L041FirstMissingPositive.java)|
+|[![](./img/hard.svg) 042](https://leetcode-cn.com/problems/trapping-rain-water/)|接雨水|[L042Trap.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L042Trap.java)|
