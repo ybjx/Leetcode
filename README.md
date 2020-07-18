@@ -2,7 +2,7 @@
 <br>
 <br>
 头条号：
-<img src="http://java-code.net/img/toutiao.jpeg" width = "150" height = "150"/>　　
+<img src="./img/toutiao.png" width = "150" height = "150"/>　　
 <br>
 <br>
 
