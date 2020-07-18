@@ -1,0 +1,101 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        "aaaa",
+        "****"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "aa",
+        "aa"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "abcd",
+        "a*d"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "mississippi",
+        "m??*ss*?i*pi"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "baaabbabbbaabbbbbbabbbaaabbaabbbbbaaaabbbbbabaaaaabbabbaabaaababaabaaabaaaabbabbbaabbbbbaababbbabaaabaabaaabbbaababaaabaaabaaaabbabaabbbabababbbbabbaaababbabbaabbaabbbbabaaabbababbabababbaabaabbaaabbba",
+        "*b*ab*bb***abba*a**ab***b*aaa*a*b****a*b*bb**b**ab*ba**bb*bb*baab****bab*bbb**a*a*aab*b****b**ba**abba"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "aaabbbbaaaabbabbbbaabbabaaababaababaaaaaaabaaababbaababbaababbbaaaaabaabbabbaabaababbaabababbbbbbbbabbaabbaaabaababaabaababababababbbbbbabbabbaabbaabaaaaaababaabbbaaabaaabbbbbbbbbaabaabaaabaaabbabbabb",
+        "****a*b*b**b*bbb*b**bba***b**b*b*b**ba***b*b*a*b*b*****a**aaa*baaa*ba*****a****ba*a****a**b*******a*a"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "baaabaaaabbabbaaaaabbbaaabbaababbaaababbbabbaabaaababbababbaababaaababaababbaabaababaabbbabbabbabbbaababbbbbbaaabababababaababbbaababbbbaaaabaaabbaaababaaaabbbbbbbaabbbbabaabbbabbababbabbaaabbbbaaabbbb",
+        "a**b*bb*babbba**b**a**b**baaa**ababab****a*ab******b*a*bb*b****a*abb*a**a**b**aab****baabb*abaaaabb*"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "aaaababbbabbbbaabbaaabbbbabbbbbabaaaabbbbbaaaabbbbbaaabbaaaabbabbabbabababaabbbbaabaaabbabbaabbababbbabbbbbaaabaaaababababbaaaabaabaaabbbbbbbbbabbbaabbaaaaaabbabaabaaabbbaaabaaabaaabaabbabaabbaaabaaabb",
+        "bb*****b*ba*a**bb*b**aba**a*b*b*b*a*b*a*ba*b*a*a*****a*b***a*a**a**b**b***a*a***bbba*abb*abba*bab***"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        "adceb",
+        "*a*b"
+      ],
+      "result": [
+        true
+      ]
+    }
+  ]
+}

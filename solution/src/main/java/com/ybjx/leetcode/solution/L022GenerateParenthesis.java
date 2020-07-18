@@ -75,6 +75,6 @@ public class L022GenerateParenthesis extends AbstractSolution {
                 }
             }
         }
-        return new ArrayList<String>(set);
+        return new ArrayList<>(set);
     }
 }
