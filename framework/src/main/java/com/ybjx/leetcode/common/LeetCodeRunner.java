@@ -293,6 +293,16 @@ public class LeetCodeRunner extends Runner implements Filterable {
             }
             return true;
         }
+        else if(obj1.getClass().equals(Float.class)){
+            Float f1 = (Float)obj1;
+            Float f2 = (Float)obj2;
+            return (f1 -f2 < 0.0000001) || (f2 - f1 < 0.0000001);
+        }
+        else if(obj1.getClass().equals(Double.class)){
+            Double d1 = (Double)obj1;
+            Double d2 = (Double)obj2;
+            return (d1 -d2 < 0.0000001) && (d2 - d1 < 0.0000001);
+        }
         else{
             return obj1.equals(obj2);
         }
