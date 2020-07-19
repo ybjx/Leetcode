@@ -53,3 +53,4 @@
 |[![](./img/middle.svg) 043](https://leetcode-cn.com/problems/multiply-strings/submissions/)|字符串相乘|[L043Multiply.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L043Multiply.java)|
 |[![](./img/hard.svg) 044](https://leetcode-cn.com/problems/wildcard-matching/)|通配符匹配|[L044IsMatch.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L044IsMatch.java)|
 |[![](./img/hard.svg) 045](https://leetcode-cn.com/problems/jump-game-ii/)|跳跃游戏 II|[L045JumpGameII.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L045JumpGameII.java)|
+|[![](./img/middle.svg) 046](https://leetcode-cn.com/problems/permutations/)|全排列|[L046Permutations.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L046Permutations.java)|
