@@ -1,0 +1,23 @@
+{
+  "type": {
+    "result": "list:list:string",
+    "param": [
+      "array:string"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+          ["eat", "tea", "tan", "ate", "nat", "bat"]
+      ],
+      "result":[
+        [
+          ["eat","tea","ate"],
+          ["tan","nat"],
+          ["bat"]
+        ]
+      ]
+    }
+  ]
+}
