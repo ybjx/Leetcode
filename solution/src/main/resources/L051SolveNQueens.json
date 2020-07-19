@@ -1,0 +1,58 @@
+{
+  "type": {
+    "result": "list:list:string",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        1
+      ],
+      "result":[
+        [
+          ["Q"]
+        ]
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        2
+      ],
+      "result":[
+        []
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        3
+      ],
+      "result":[
+        []
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        4
+      ],
+      "result":[
+        [
+        [".Q..",
+          "...Q",
+          "Q...",
+          "..Q."],
+
+        ["..Q.",
+          "Q...",
+          "...Q",
+          ".Q.."]
+          ]
+      ]
+    }
+  ]
+}

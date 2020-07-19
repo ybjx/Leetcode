@@ -58,3 +58,4 @@
 |[![](./img/middle.svg) 048](https://leetcode-cn.com/problems/rotate-image/)|旋转图像|[L048RotateImage.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L048RotateImage.java)|
 |[![](./img/middle.svg) 049](https://leetcode-cn.com/problems/group-anagrams/)|字母异位词分组|[L049GroupAnagrams.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L049GroupAnagrams.java)|
 |[![](./img/middle.svg) 050](https://leetcode-cn.com/problems/powx-n/)|Pow(x, n)|[L050PowxN.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L050PowxN.java)|
+|[![](./img/hard.svg) 051](https://leetcode-cn.com/problems/n-queens/)|N皇后|[L051SolveNQueens.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L051SolveNQueens.java)|
