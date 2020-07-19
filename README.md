@@ -55,3 +55,4 @@
 |[![](./img/hard.svg) 045](https://leetcode-cn.com/problems/jump-game-ii/)|跳跃游戏 II|[L045JumpGameII.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L045JumpGameII.java)|
 |[![](./img/middle.svg) 046](https://leetcode-cn.com/problems/permutations/)|全排列|[L046Permutations.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L046Permutations.java)|
 |[![](./img/middle.svg) 046](https://leetcode-cn.com/problems/permutations-ii/)|全排列 II|[L047PermutationsII.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L047PermutationsII.java)|
+|[![](./img/middle.svg) 046](https://leetcode-cn.com/problems/rotate-image/)|旋转图像|[L048RotateImage.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L048RotateImage.java)|
