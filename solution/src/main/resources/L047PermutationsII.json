@@ -1,0 +1,23 @@
+{
+  "type":{
+    "result": "list:list:int",
+    "param": [
+      "array:int"
+    ]
+  },
+  "data":[
+    {
+      "times":1,
+      "param": [
+        [1,1,2]
+      ],
+      "result":[
+        [
+          [1,1,2],
+          [1,2,1],
+          [2,1,1]
+        ]
+      ]
+    }
+  ]
+}
