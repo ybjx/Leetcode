@@ -1,0 +1,46 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        1
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        2
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        3
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        4
+      ],
+      "result":[
+        2
+      ]
+    }
+  ]
+}
