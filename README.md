@@ -65,3 +65,4 @@
 |[![](./img/middle.svg) 055](https://leetcode-cn.com/problems/jump-game/)|跳跃游戏|[L055CanJump.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L055CanJump.java)|
 |[![](./img/middle.svg) 056](https://leetcode-cn.com/problems/merge-intervals/)|合并区间|[L056MergeIntervals.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L056MergeIntervals.java)|
 |[![](./img/hard.svg) 057](https://leetcode-cn.com/problems/insert-interval/)|插入区间|[L057InsertInterval.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L057InsertInterval.java)|
+|[![](./img/hard.svg) 058](https://leetcode-cn.com/problems/length-of-last-word/)|最后一个单词的长度|[L058LengthOfLastWord.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L058LengthOfLastWord.java)|
