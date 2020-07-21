@@ -63,3 +63,4 @@
 |[![](./img/easy.svg) 053](https://leetcode-cn.com/problems/maximum-subarray/)|最大子序和|[L053MaxSubArray.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L053MaxSubArray.java)|
 |[![](./img/middle.svg) 054](https://leetcode-cn.com/problems/spiral-matrix/)|螺旋矩阵|[L054SpiralOrder.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L054SpiralOrder.java)|
 |[![](./img/middle.svg) 055](https://leetcode-cn.com/problems/jump-game/)|跳跃游戏|[L055CanJump.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L055CanJump.java)|
+|[![](./img/middle.svg) 056](https://leetcode-cn.com/problems/merge-intervals/)|合并区间|[L056MergeIntervals.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L056MergeIntervals.java)|
