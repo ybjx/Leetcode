@@ -1,0 +1,65 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "int",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "times": 1,
+      "param": [
+        3,3
+      ],
+      "result":[
+        "213"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        4,9
+      ],
+      "result":[
+        "2314"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        1,1
+      ],
+      "result":[
+        "1"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        2,1
+      ],
+      "result":[
+        "12"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        2,2
+      ],
+      "result":[
+        "21"
+      ]
+    },
+    {
+      "times": 1,
+      "param": [
+        3,2
+      ],
+      "result":[
+        "132"
+      ]
+    }
+  ]
+}
