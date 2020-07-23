@@ -7,7 +7,6 @@
   },
   "data": [
     {
-      "times": 1,
       "param": [
         "Hello World"
       ],
@@ -16,7 +15,6 @@
       ]
     },
     {
-      "times": 1,
       "param": [
         ""
       ],
@@ -25,7 +23,6 @@
       ]
     },
     {
-      "times": 1,
       "param": [
         "123   "
       ],

@@ -20,7 +20,7 @@ import java.util.HashMap;
  * @author ybjx
  * @date 2019/3/24 12:18
  */
-public class L001TwoSum  {
+public class L001TwoSum extends AbstractSolution {
 
     @LeetCodeSolution(name = "双循环解法")
     public int[] solution1(int[] nums, int target){

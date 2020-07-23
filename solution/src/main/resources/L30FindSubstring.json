@@ -8,7 +8,6 @@
   },
   "data": [
     {
-      "times": 1,
       "param": [
         "wordgoodgoodgoodbestword",
         ["word","good","best","good"]
@@ -18,7 +17,6 @@
       ]
     },
     {
-      "times": 1,
       "param": [
         "",
         [
@@ -29,7 +27,6 @@
       ]
     },
     {
-      "times": 1,
       "param": [
         "barfoothefoobarman",
         ["foo","bar"]
@@ -39,7 +36,6 @@
       ]
     },
     {
-      "times": 1,
       "param": [
         "wordgoodgoodgoodbestword",
         [
