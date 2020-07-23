@@ -1,0 +1,218 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "3.5e+3.5e+3.5"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "7e69e"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "0"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "  0.1"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "abc"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "1 a"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "2e10"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "  -90e3"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        " 1e"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "e3"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        " 6e-1"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "  99e2.5"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "53.5e93"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        ""
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "  --6"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        " -+3"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "95a54e53"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "1e2e3e"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "-1.-2"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "-1-2"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        ".1"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "1."
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        ".0.1"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "33.-1"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "1.e1"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "."
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}

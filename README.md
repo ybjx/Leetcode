@@ -71,4 +71,5 @@
 |[![](./img/middle.svg) 061](https://leetcode-cn.com/problems/rotate-list/)|旋转链表|[L061RotateRight.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L061RotateRight.java)|
 |[![](./img/middle.svg) 062](https://leetcode-cn.com/problems/unique-paths/)|不同路径|[L062UniquePaths.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L062UniquePaths.java)|
 |[![](./img/middle.svg) 063](https://leetcode-cn.com/problems/unique-paths-ii/)|不同路径 II|[L063UniquePathsWithObstacles.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L063UniquePathsWithObstacles.java)|
-|[![](./img/middle.svg) 063](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|[L064MinPathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L064MinPathSum.java)|
+|[![](./img/middle.svg) 064](https://leetcode-cn.com/problems/minimum-path-sum/)|最小路径和|[L064MinPathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L064MinPathSum.java)|
+|[![](./img/middle.svg) 065](https://leetcode-cn.com/problems/valid-number/)|有效数字|[L065IsNumber.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L065IsNumber.java)|
