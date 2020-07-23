@@ -69,3 +69,4 @@
 |[![](./img/middle.svg) 059](https://leetcode-cn.com/problems/spiral-matrix-ii/)|螺旋矩阵 II|[L059GenerateMatrix.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L059GenerateMatrix.java)|
 |[![](./img/middle.svg) 060](https://leetcode-cn.com/problems/permutation-sequence/)|第k个排列|[L060GetPermutation.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L060GetPermutation.java)|
 |[![](./img/middle.svg) 061](https://leetcode-cn.com/problems/rotate-list/)|旋转链表|[L061RotateRight.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L061RotateRight.java)|
+|[![](./img/middle.svg) 062](https://leetcode-cn.com/problems/unique-paths/)|不同路径|[L062UniquePaths.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L062UniquePaths.java)|
