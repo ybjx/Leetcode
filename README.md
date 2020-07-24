@@ -78,3 +78,4 @@
 |[![](./img/hard.svg) 068](https://leetcode-cn.com/problems/text-justification/)|文本左右对齐|[L068FullJustify.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L068FullJustify.java)|
 |[![](./img/easy.svg) 069](https://leetcode-cn.com/problems/sqrtx/)|x 的平方根|[L069MySqrt.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L069MySqrt.java)|
 |[![](./img/easy.svg) 070](https://leetcode-cn.com/problems/climbing-stairs/)|爬楼梯|[L070ClimbStairs.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L070ClimbStairs.java)|
+|[![](./img/middle.svg) 071](https://leetcode-cn.com/problems/simplify-path/)|简化路径|[L071SimplifyPath.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L071SimplifyPath.java)|

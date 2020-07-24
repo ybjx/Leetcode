@@ -1,0 +1,58 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "/home/"
+      ],
+      "result":[
+        "/home"
+      ]
+    },
+    {
+      "param": [
+        "/../"
+      ],
+      "result":[
+        "/"
+      ]
+    },
+    {
+      "param": [
+        "/home//foo/"
+      ],
+      "result":[
+        "/home/foo"
+      ]
+    },
+    {
+      "param": [
+        "/a/./b/../../c/"
+      ],
+      "result":[
+        "/c"
+      ]
+    },
+    {
+      "param": [
+        "/a/../../b/../c//.//"
+      ],
+      "result":[
+        "/c"
+      ]
+    },
+    {
+      "param": [
+        "/a//b////c/d//././/.."
+      ],
+      "result":[
+        "/a/b/c"
+      ]
+    }
+  ]
+}
