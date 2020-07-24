@@ -1,0 +1,54 @@
+{
+  "type": {
+    "result": "list:string",
+    "param": [
+      "array:string",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        ["This", "is", "an", "example", "of", "text", "justification."],
+        16
+      ],
+      "result":[
+        [
+          "This    is    an",
+          "example  of text",
+          "justification.  "
+        ]
+      ]
+    },
+    {
+      "param": [
+        ["What","must","be","acknowledgment","shall","be"],
+        16
+      ],
+      "result":[
+        [
+          "What   must   be",
+          "acknowledgment  ",
+          "shall be        "
+        ]
+      ]
+    },
+    {
+      "param": [
+        ["Science","is","what","we","understand","well","enough","to","explain",
+          "to","a","computer.","Art","is","everything","else","we","do"],
+        20
+      ],
+      "result":[
+        [
+          "Science  is  what we",
+          "understand      well",
+          "enough to explain to",
+          "a  computer.  Art is",
+          "everything  else  we",
+          "do                  "
+        ]
+      ]
+    }
+  ]
+}
