@@ -1,0 +1,66 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        0
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "param": [
+        1
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "param": [
+        2
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "param": [
+        3
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "param": [
+        4
+      ],
+      "result":[
+        2
+      ]
+    },
+    {
+      "param": [
+        5
+      ],
+      "result":[
+        2
+      ]
+    },
+    {
+      "param": [
+        2147395600
+      ],
+      "result":[
+        46340
+      ]
+    }
+  ]
+}

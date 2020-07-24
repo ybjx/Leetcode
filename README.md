@@ -76,3 +76,4 @@
 |[![](./img/easy.svg) 066](https://leetcode-cn.com/problems/plus-one/)|加一|[L066PlusOne.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L066PlusOne.java)|
 |[![](./img/easy.svg) 067](https://leetcode-cn.com/problems/add-binary/)|二进制求和|[L067AddBinary.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L067AddBinary.java)|
 |[![](./img/hard.svg) 068](https://leetcode-cn.com/problems/text-justification/)|文本左右对齐|[L068FullJustify.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L068FullJustify.java)|
+|[![](./img/hard.svg) 069](https://leetcode-cn.com/problems/sqrtx/)|x 的平方根|[L069MySqrt.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L069MySqrt.java)|
