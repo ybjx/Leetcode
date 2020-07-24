@@ -221,11 +221,13 @@ public class LeetCodeRunner extends Runner implements Filterable {
 
         LeetCode leetCode = (LeetCode)clazz.getAnnotation(LeetCode.class);
         if(leetCode == null){
-            list.add("/" + clazz.getSimpleName() + ".json");
+            String [] pkgList = clazz.getPackage().getName().split("\\.");
+            list.add("/" + pkgList[pkgList.length - 1] + "/" + clazz.getSimpleName() + ".json");
             return list;
         }
         if(leetCode.useDefaultData()){
-            list.add("/" + clazz.getSimpleName() + ".json");
+            String [] pkgList = clazz.getPackage().getName().split("\\.");
+            list.add("/" + pkgList[pkgList.length - 1] + "/" + clazz.getSimpleName() + ".json");
         }
         for(String str: leetCode.dataUrl()){
             if(!Strings.isNullOrEmpty(str)) {
