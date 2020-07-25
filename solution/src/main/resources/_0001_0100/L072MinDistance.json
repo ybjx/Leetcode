@@ -1,0 +1,65 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "horse",
+        "ros"
+      ],
+      "result":[
+        3
+      ]
+    },
+    {
+      "param": [
+        "intention",
+        "execution"
+      ],
+      "result":[
+        5
+      ]
+    },
+    {
+      "param": [
+        "intentiklsdjf;akdfjalskdjlskdjfal;sdkfjas;ldkfjasdfkon",
+        "execualksdjflaksdjflaskdjfalsdkfjalsdkfjalskdfjasldkfjasldkfjasldkfjtion"
+      ],
+      "result":[
+        36
+      ]
+    },
+    {
+      "param": [
+        "",
+        ""
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "param": [
+        "",
+        "1"
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "param": [
+        "1",
+        "1"
+      ],
+      "result":[
+        0
+      ]
+    }
+  ]
+}
