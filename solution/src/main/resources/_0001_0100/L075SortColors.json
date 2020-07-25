@@ -1,0 +1,29 @@
+{
+  "type": {
+    "result": "void",
+    "param": [
+      "array:int"
+    ],
+    "param-result-index": [
+      0
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [2,0,2,1,1,0]
+      ],
+      "param-result": [
+        [0,0,1,1,2,2]
+      ]
+    },
+    {
+      "param": [
+        [2,0,2,1,1,0,0,1,2,1,2,1]
+      ],
+      "param-result": [
+        [0,0,0,1,1,1,1,1,2,2,2,2]
+      ]
+    }
+  ]
+}
