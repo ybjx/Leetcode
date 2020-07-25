@@ -81,3 +81,4 @@
 |[![](./img/middle.svg) 071](https://leetcode-cn.com/problems/simplify-path/)|简化路径|[L071SimplifyPath.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L071SimplifyPath.java)|
 |[![](./img/hard.svg) 072](https://leetcode-cn.com/problems/edit-distance/)|编辑距离|[L072MinDistance.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L072MinDistance.java)|
 |[![](./img/middle.svg) 073](https://leetcode-cn.com/problems/set-matrix-zeroes/)|矩阵置零|[L073SetZeroes.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L073SetZeroes.java)|
+|[![](./img/middle.svg) 074](https://leetcode-cn.com/problems/search-a-2d-matrix/)|搜索二维矩阵|[L074SearchMatrix.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L074SearchMatrix.java)|
