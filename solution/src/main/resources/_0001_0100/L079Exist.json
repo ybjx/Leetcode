@@ -1,0 +1,66 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "array:array:char",
+      "string"
+    ]
+  },
+  "data": [
+
+    {
+      "param": [
+        [
+          ["a"]
+        ],
+        "a"
+
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        [
+          ["A","B","C","E"],
+          ["S","F","C","S"],
+          ["A","D","E","E"]
+        ],
+        "ABCCED"
+        
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        [
+          ["A","B","C","E"],
+          ["S","F","C","S"],
+          ["A","D","E","E"]
+        ],
+        "SEE"
+
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        [
+          ["A","B","C","E"],
+          ["S","F","C","S"],
+          ["A","D","E","E"]
+        ],
+        "ABCB"
+
+      ],
+      "result": [
+        false
+      ]
+    }
+  ]
+}
