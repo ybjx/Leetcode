@@ -358,12 +358,16 @@ public class LeetCodeRunner extends Runner implements Filterable {
      * @param index 缩进计数
      */
     private void printObject(Object obj, int index){
+        for(int i = 0; i < index; i++){
+            System.out.print("  ");
+        }
+        if(obj == null){
+            System.out.println("null");
+            return;
+        }
         if(obj.getClass().isArray()){
             int len = Array.getLength(obj);
             boolean end = len == 0 || !Array.get(obj, 0).getClass().isArray();
-            for(int i = 0; i < index; i++){
-                System.out.print("  ");
-            }
             if(!end){
                 System.out.println(Constant.LEFT_SQUARE_BRACKET);
             }
@@ -389,16 +393,10 @@ public class LeetCodeRunner extends Runner implements Filterable {
                 System.out.print(Constant.RIGHT_SQUARE_BRACKET);
             }
             else{
-                for(int i = 0; i < index; i++){
-                    System.out.print("  ");
-                }
                 System.out.println(Constant.RIGHT_SQUARE_BRACKET);
             }
         }
         else{
-            for(int i = 0; i < index; i++){
-                System.out.print("  ");
-            }
             System.out.print(Constant.LEFT_SQUARE_BRACKET);
             System.out.print(obj.toString());
             System.out.println(Constant.RIGHT_SQUARE_BRACKET);

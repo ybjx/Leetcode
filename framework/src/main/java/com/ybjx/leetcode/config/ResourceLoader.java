@@ -161,9 +161,7 @@ public class ResourceLoader {
             else{
                 for(Object o: array){
                     Object res = LoaderManager.loadData(o, type.getResult());
-                    if(res != null){
-                        testCase.getResult().add(res);
-                    }
+                    testCase.getResult().add(res);
                 }
                 if(testCase.getResult().size() == 0){
                     throw new LeetCodeException("没有解析到任何返回值数据！");
