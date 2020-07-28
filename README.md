@@ -94,3 +94,4 @@
 |[![](./img/hard.svg) 084](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|柱状图中最大的矩形|[L084LargestRectangleArea.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L084LargestRectangleArea.java)|
 |[![](./img/hard.svg) 085](https://leetcode-cn.com/problems/maximal-rectangle/)|最大矩形|[L085MaximalRectangle.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L085MaximalRectangle.java)|
 |[![](./img/middle.svg) 086](https://leetcode-cn.com/problems/partition-list/)|分隔链表|[L086Partition.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L086Partition.java)|
+|[![](./img/hard.svg) 087](https://leetcode-cn.com/problems/scramble-string/)|扰乱字符串|[L087IsScramble.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L087IsScramble.java)|

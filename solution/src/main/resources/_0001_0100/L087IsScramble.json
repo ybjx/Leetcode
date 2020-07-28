@@ -1,0 +1,38 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "great",
+        "rgeat"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        "abcde",
+        "caebd"
+      ],
+      "result": [
+        false
+      ]
+    },
+    {
+      "param": [
+        "abcdefghijklmnopq",
+        "efghijklmnopqcadb"
+      ],
+      "result": [
+        false
+      ]
+    }
+  ]
+}
