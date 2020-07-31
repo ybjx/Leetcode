@@ -1,0 +1,52 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "",
+        "",
+        ""
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        "",
+        "a",
+        "a"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        "aabcc",
+        "dbbca",
+        "aadbbcbcac"
+      ],
+      "result": [
+        true
+      ]
+    },
+    {
+      "param": [
+        "aabcc",
+        "dbbca",
+        "aadbbbaccc"
+      ],
+      "result": [
+        false
+      ]
+    }
+  ]
+}
