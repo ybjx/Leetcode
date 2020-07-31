@@ -101,3 +101,4 @@
 |[![](./img/middle.svg) 091](https://leetcode-cn.com/problems/decode-ways/)|解码方法|[L091NumDecodings.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L091NumDecodings.java)|
 |[![](./img/middle.svg) 092](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|反转链表 II|[L092ReverseBetween.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L092ReverseBetween.java)|
 |[![](./img/middle.svg) 093](https://leetcode-cn.com/problems/restore-ip-addresses/)|复原IP地址|[L093RestoreIpAddresses.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L093RestoreIpAddresses.java)|
+|[![](./img/middle.svg) 094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|二叉树的中序遍历|[L094InorderTraversal.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L094InorderTraversal.java)|

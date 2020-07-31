@@ -65,6 +65,11 @@ public class TypeConstant {
     public final static String LIST_NODE = "list-node";
 
     /**
+     * 二叉树
+     */
+    public final static String TREE_NODE = "tree-node";
+
+    /**
      * 对象类型
      */
     public final static String OBJECT = "object";
