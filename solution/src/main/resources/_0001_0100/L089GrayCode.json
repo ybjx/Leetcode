@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "list:int",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        0
+      ],
+      "result": [
+        [0]
+      ]
+    },
+    {
+      "param": [
+        1
+      ],
+      "result": [
+        [0,1]
+      ]
+    },
+    {
+      "param": [
+        2
+      ],
+      "result": [
+        [0,1,3,2]
+      ]
+    }
+  ]
+}
