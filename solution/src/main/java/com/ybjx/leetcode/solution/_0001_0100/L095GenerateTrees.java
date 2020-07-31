@@ -39,13 +39,6 @@ public class L095GenerateTrees extends AbstractSolution {
 
     private List<TreeNode> calc(int s, int e){
         List<TreeNode> list = new ArrayList<>();
-        if(s > e){
-            return list;
-        } else if(s == e){
-            TreeNode node = new TreeNode(s);
-            list.add(node);
-            return list;
-        }
         for(int i = s; i <= e; i++){
             List<TreeNode> l1 = calc(s, i - 1);
             List<TreeNode> l2 = calc(i + 1, e);
