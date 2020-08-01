@@ -111,3 +111,4 @@
 |[![](./img/easy.svg) 101](https://leetcode-cn.com/problems/symmetric-tree/)|对称二叉树|[L101IsSymmetric.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L101IsSymmetric.java)|
 |[![](./img/middle.svg) 102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|二叉树的层序遍历|[L102LevelOrder.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L102LevelOrder.java)|
 |[![](./img/middle.svg) 103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)|二叉树的锯齿形层次遍历|[L103ZigzagLevelOrder.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L103ZigzagLevelOrder.java)|
+|[![](./img/easy.svg) 104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|二叉树的最大深度|[L104MaxDepth.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L104MaxDepth.java)|
