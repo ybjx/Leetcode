@@ -1,0 +1,29 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "tree-node",
+      "tree-node"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [3,1,null,null,4,2],
+        [2,1,null,null,4,3]
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        [3,1,null,null,4,2],
+        [3,1,null,null,4,2]
+      ],
+      "result":[
+        true
+      ]
+    }
+  ]
+}
