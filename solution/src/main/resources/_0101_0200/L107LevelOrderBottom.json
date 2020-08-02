@@ -1,0 +1,22 @@
+{
+  "type": {
+    "result": "list:list:int",
+    "param": [
+      "tree-node"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [3,9,null,null,20,15,null,null,7]
+      ],
+      "result":[
+        [
+          [15,7],
+          [9,20],
+          [3]
+        ]
+      ]
+    }
+  ]
+}
