@@ -121,3 +121,4 @@
 |[![](./img/easy.svg) 111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|二叉树的最小深度|[L111MinDepth.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L111MinDepth.java)|
 |[![](./img/easy.svg) 112](https://leetcode-cn.com/problems/path-sum/)|路径总和|[L112HasPathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L112HasPathSum.java)|
 |[![](./img/middle.svg) 113](https://leetcode-cn.com/problems/path-sum-ii/)|路径总和 II|[L113PathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L113PathSum.java)|
+|[![](./img/hard.svg) 115](https://leetcode-cn.com/problems/distinct-subsequences/)|不同的子序列|[L115NumDistinct.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L115NumDistinct.java)|

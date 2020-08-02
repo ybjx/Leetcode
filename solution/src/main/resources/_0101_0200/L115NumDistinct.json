@@ -1,0 +1,29 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "rabbbit",
+        "rabbit"
+      ],
+      "result":[
+        3
+      ]
+    },
+    {
+      "param": [
+        "babgbag",
+        "bag"
+      ],
+      "result":[
+        5
+      ]
+    }
+  ]
+}
