@@ -119,3 +119,4 @@
 |[![](./img/middle.svg) 109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)|有序链表转换二叉搜索树|[L109SortedListToBST.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L109SortedListToBST.java)|
 |[![](./img/easy.svg) 110](https://leetcode-cn.com/problems/balanced-binary-tree/)|平衡二叉树|[L110isBalanced.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L110isBalanced.java)|
 |[![](./img/easy.svg) 111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|二叉树的最小深度|[L111MinDepth.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L111MinDepth.java)|
+|[![](./img/easy.svg) 112](https://leetcode-cn.com/problems/path-sum/)|路径总和|[L112HasPathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L112HasPathSum.java)|

@@ -1,0 +1,38 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "tree-node",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [0,-3,-10,null,null,null,9,5],
+        -13
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        [3,9,null,null,20,15,null,null,7],
+        100
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        [5,4,11,7,null,null,2,null,null,null,8,13,null,null,4,null,1],
+        22
+      ],
+      "result":[
+        true
+      ]
+    }
+  ]
+}
