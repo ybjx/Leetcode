@@ -3,6 +3,7 @@ package com.ybjx.leetcode.config;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson.parser.Feature;
 import com.google.common.base.Charsets;
 import com.google.common.base.Strings;
 import com.google.common.io.CharStreams;
@@ -41,7 +42,7 @@ public class ResourceLoader {
             e.printStackTrace();
             return;
         }
-        Object json = JSON.parse(result);
+        Object json = JSON.parse(result, Feature.DisableCircularReferenceDetect);
         if(json instanceof JSONObject){
             JSONObject obj = (JSONObject)json;
             if(obj.getJSONObject(TypeConstant.JSON_FIELD_TYPE) != null){

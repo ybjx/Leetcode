@@ -123,3 +123,4 @@
 |[![](./img/middle.svg) 113](https://leetcode-cn.com/problems/path-sum-ii/)|路径总和 II|[L113PathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L113PathSum.java)|
 |[![](./img/easy.svg) 114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|二叉树展开为链表|[L114Flatten.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L114Flatten.java)|
 |[![](./img/hard.svg) 115](https://leetcode-cn.com/problems/distinct-subsequences/)|不同的子序列|[L115NumDistinct.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L115NumDistinct.java)|
+|[![](./img/middle.svg) 116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[L116Connect.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L116Connect.java)|
