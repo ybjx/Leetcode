@@ -125,3 +125,4 @@
 |[![](./img/hard.svg) 115](https://leetcode-cn.com/problems/distinct-subsequences/)|不同的子序列|[L115NumDistinct.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L115NumDistinct.java)|
 |[![](./img/middle.svg) 116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|填充每个节点的下一个右侧节点指针|[L116Connect.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L116Connect.java)|
 |[![](./img/middle.svg) 117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)|填充每个节点的下一个右侧节点指针 II|[L117Connect.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L117Connect.java)|
+|[![](./img/easy.svg) 118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[L118Generate.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L118Generate.java)|
