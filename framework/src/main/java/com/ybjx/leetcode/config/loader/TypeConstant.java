@@ -70,6 +70,11 @@ public class TypeConstant {
     public final static String TREE_NODE = "tree-node";
 
     /**
+     * 带next节点的二叉树
+     */
+    public final static String NODE = "node";
+
+    /**
      * 对象类型
      */
     public final static String OBJECT = "object";
