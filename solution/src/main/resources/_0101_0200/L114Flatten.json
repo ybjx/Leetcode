@@ -1,0 +1,21 @@
+{
+  "type": {
+    "result": "void",
+    "param": [
+      "tree-node"
+    ],,
+    "param-result-index": [
+      0
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [0,-3,-10,null,null,null,9,5]
+      ],
+      "param-result":[
+        [0,null,-3,null,-10,null,9,null,5]
+      ]
+    }
+  ]
+}
