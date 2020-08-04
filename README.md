@@ -128,3 +128,4 @@
 |[![](./img/easy.svg) 118](https://leetcode-cn.com/problems/pascals-triangle/)|杨辉三角|[L118Generate.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L118Generate.java)|
 |[![](./img/easy.svg) 119](https://leetcode-cn.com/problems/pascals-triangle-ii/)|杨辉三角 II|[L119GetRow.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L119GetRow.java)|
 |[![](./img/middle.svg) 120](https://leetcode-cn.com/problems/triangle/)|三角形最小路径和|[L120MinimumTotal.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L120MinimumTotal.java)|
+|[![](./img/easy.svg) 121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|买卖股票的最佳时机|[L121MaxProfit.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L121MaxProfit.java)|
