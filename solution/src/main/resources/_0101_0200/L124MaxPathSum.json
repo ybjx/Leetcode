@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "tree-node"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [1,2,null,null,3]
+      ],
+      "result":[
+        6
+      ]
+    },
+    {
+      "param": [
+        [-10,9,null,null,20,15,null,null,7]
+      ],
+      "result":[
+        42
+      ]
+    },
+    {
+      "param": [
+        [-10]
+      ],
+      "result":[
+        -10
+      ]
+    }
+  ]
+}
