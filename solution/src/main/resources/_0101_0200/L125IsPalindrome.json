@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "A man, a plan, a canal: Panama"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "race a car"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        ""
+      ],
+      "result":[
+        true
+      ]
+    }
+  ]
+}

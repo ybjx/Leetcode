@@ -132,3 +132,4 @@
 |[![](./img/easy.svg) 122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|买卖股票的最佳时机 II|[L122MaxProfit.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L122MaxProfit.java)|
 |[![](./img/hard.svg) 123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|买卖股票的最佳时机 II|[L1223MaxProfit.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L123MaxProfit.java)|
 |[![](./img/hard.svg) 124](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|二叉树中的最大路径和|[L124MaxPathSum.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L124MaxPathSum.java)|
+|[![](./img/easy.svg) 125](https://leetcode-cn.com/problems/valid-palindrome/)|验证回文串|[L125IsPalindrome.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/L125IsPalindrome.java)|
