@@ -135,3 +135,4 @@
 |[![](./img/easy.svg) 125](https://leetcode-cn.com/problems/valid-palindrome/)|验证回文串|[L125IsPalindrome.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L125IsPalindrome.java)|
 |[![](./img/hard.svg) 126](https://leetcode-cn.com/problems/word-ladder-ii/)|单词接龙 II|[L126FindLadders.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L126FindLadders.java)|
 |[![](./img/middle.svg) 127](https://leetcode-cn.com/problems/word-ladder/)|单词接龙|[L127LadderLength.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L127LadderLength.java)|
+|[![](./img/hard.svg) 128](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|最长连续序列|[L128LongestConsecutive.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L128LongestConsecutive.java)|
