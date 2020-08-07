@@ -1,0 +1,32 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string",
+      "string",
+      "list:string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "hit",
+        "cog",
+        ["hot","dot","dog","lot","log","cog"]
+      ],
+      "result":[
+        5
+      ]
+    },
+    {
+      "param": [
+        "hit",
+        "cog",
+        ["hot","dot","dog","lot","log"]
+      ],
+      "result":[
+        0
+      ]
+    }
+  ]
+}
