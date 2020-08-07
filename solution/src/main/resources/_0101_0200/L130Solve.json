@@ -1,0 +1,31 @@
+{
+  "type": {
+    "result": "void",
+    "param": [
+      "array:array:char"
+    ],
+    "param-result-index":[
+      0
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [
+          ["X","X","X","X"],
+          ["X","O","O","X"],
+          ["X","X","O","X"],
+          ["X","O","X","X"]
+        ]
+      ],
+      "param-result":[
+        [
+          ["X","X","X","X"],
+          ["X","X","X","X"],
+          ["X","X","X","X"],
+          ["X","O","X","X"]
+        ]
+      ]
+    }
+  ]
+}
