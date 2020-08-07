@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "list:list:string",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "aab"
+      ],
+      "result":[
+        [
+          ["aa","b"],
+          ["a","a","b"]
+        ]
+      ]
+    },
+    {
+      "param": [
+        "fff"
+      ],
+      "result":[
+        [
+          ["fff"],
+          ["ff","f"],
+          ["f","ff"],
+          ["f","f","f"]
+        ]
+      ]
+    }
+  ]
+}
