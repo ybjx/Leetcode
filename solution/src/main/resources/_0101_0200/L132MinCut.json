@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "aab"
+      ],
+      "result":[
+        1
+      ]
+    },
+    {
+      "param": [
+        "fff"
+      ],
+      "result":[
+        0
+      ]
+    },
+    {
+      "param": [
+        "aabaaaaffjfkssasssfsadfffffffffffffffddddasffdsasdsf"
+      ],
+      "result":[
+        5
+      ]
+    }
+  ]
+}
