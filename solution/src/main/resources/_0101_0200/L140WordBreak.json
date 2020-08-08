@@ -1,0 +1,64 @@
+{
+  "type": {
+    "result": "list:string",
+    "param": [
+      "string",
+      "list:string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "leetcode",
+        ["leet", "code"]
+      ],
+      "result":[
+        [
+          "leet code"
+        ]
+      ]
+    },
+    {
+      "param": [
+        "applepenapple",
+        ["apple", "pen"]
+      ],
+      "result":[
+        [
+          "apple pen apple"
+        ]
+      ]
+    },
+    {
+      "param": [
+        "catsandog",
+        ["cats", "dog", "sand", "and", "cat"]
+      ],
+      "result":[
+        []
+      ]
+    },
+    {
+      "param": [
+        "pineapplepenapple",
+        ["apple", "pen", "applepen", "pine", "pineapple"]
+      ],
+      "result":[
+        [
+          "pine apple pen apple",
+          "pineapple pen apple",
+          "pine applepen apple"
+        ]
+      ]
+    },
+    {
+      "param": [
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+        ["a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa"]
+      ],
+      "result":[
+        []
+      ]
+    }
+  ]
+}

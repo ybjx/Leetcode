@@ -147,3 +147,4 @@
 |[![](./img/middle.svg) 137](https://leetcode-cn.com/problems/single-number-ii/)|只出现一次的数字 II|[L137SingleNumber.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L137SingleNumber.java)|
 |[![](./img/middle.svg) 138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|复制带随机指针的链表|[L138CopyRandomList.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L138CopyRandomList.java)|
 |[![](./img/middle.svg) 139](https://leetcode-cn.com/problems/word-break/)|单词拆分|[L139WordBreak.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L139WordBreak.java)|
+|[![](./img/hard.svg) 140](https://leetcode-cn.com/problems/word-break-ii/)|单词拆分 II|[L140WordBreak.java](https://github.com/ybjx/Leetcode/blob/master/solution/src/main/java/com/ybjx/leetcode/solution/_0101_0200/L140WordBreak.java)|
