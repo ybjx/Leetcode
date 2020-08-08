@@ -1,0 +1,47 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "list:string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "leetcode",
+        ["leet", "code"]
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "applepenapple",
+        ["apple", "pen"]
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "catsandog",
+        ["cats", "dog", "sand", "and", "cat"]
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab",
+        ["a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa"]
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}

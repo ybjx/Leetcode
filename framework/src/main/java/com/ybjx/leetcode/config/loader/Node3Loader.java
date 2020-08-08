@@ -22,7 +22,7 @@ public class Node3Loader implements IObjectLoader {
         List<Node3> list = new ArrayList<Node3>();
 
         for(int i = 0; i < array.size(); i++){
-            Node3 n = new Node3();
+            Node3 n = new Node3(0);
             list.add(n);
         }
         for(int i = 0; i < array.size(); i++){
