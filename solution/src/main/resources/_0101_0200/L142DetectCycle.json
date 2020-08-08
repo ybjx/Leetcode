@@ -1,0 +1,43 @@
+{
+  "type": {
+    "result": "list-node",
+    "param": [
+      "list-node2"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        {
+          "head":[3,2,0,-4],
+          "pos": 1
+        }
+      ],
+      "result":[
+        [2,0,-4]
+      ]
+    },
+    {
+      "param": [
+        {
+          "head":[1,2],
+          "pos": 0
+        }
+      ],
+      "result":[
+        [1,2]
+      ]
+    },
+    {
+      "param": [
+        {
+          "head":[1],
+          "pos": -1
+        }
+      ],
+      "result":[
+        []
+      ]
+    }
+  ]
+}
