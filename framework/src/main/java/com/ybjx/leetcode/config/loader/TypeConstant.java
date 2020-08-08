@@ -75,6 +75,11 @@ public class TypeConstant {
     public final static String NODE = "node";
 
     /**
+     * 具有个别节点的无向图
+     */
+    public final static String NODE2 = "node2";
+
+    /**
      * 对象类型
      */
     public final static String OBJECT = "object";
