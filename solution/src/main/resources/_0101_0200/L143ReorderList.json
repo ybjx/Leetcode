@@ -1,0 +1,29 @@
+{
+  "type": {
+    "result": "void",
+    "param": [
+      "list-node"
+    ],
+    "param-result-index":[
+      0
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [1,2,3,4]
+      ],
+      "param-result":[
+        [1,4,2,3]
+      ]
+    },
+    {
+      "param": [
+        [1,2,3,4,5]
+      ],
+      "param-result":[
+        [1,5,2,4,3]
+      ]
+    }
+  ]
+}
