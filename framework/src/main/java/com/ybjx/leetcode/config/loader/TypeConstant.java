@@ -80,6 +80,11 @@ public class TypeConstant {
     public final static String NODE2 = "node2";
 
     /**
+     * 具有随机指针的链表
+     */
+    public final static String NODE3 = "node3";
+
+    /**
      * 对象类型
      */
     public final static String OBJECT = "object";
