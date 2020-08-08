@@ -1,6 +1,7 @@
 package com.ybjx.leetcode.type;
 
-import com.ybjx.leetcode.common.Constant;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 链表数据类型
@@ -32,32 +33,30 @@ public class ListNode {
         if(!(obj instanceof ListNode)){
             return false;
         }
-        ListNode node = (ListNode)obj;
-        if(this.val != node.val){
-            return false;
-        }
-        if(next == null){
-            return node.next == null;
-        }
-        else{
-            return next.equals(node.next);
-        }
+        return this.toString().equals(obj.toString());
     }
 
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder();
-        builder.append(Constant.LEFT_SQUARE_BRACKET).append(this.val);
-        if(next != null){
-            String n = next.toString();
-            if(n.startsWith(Constant.LEFT_SQUARE_BRACKET)){
-                n = n.substring(1);
+        List<ListNode> list = new ArrayList<ListNode>();
+        ListNode p = this;
+        StringBuilder b = new StringBuilder();
+        b.append("[");
+        while (p != null){
+            boolean end = false;
+            for (ListNode aList : list) {
+                if (aList == p) {
+                    end = true;
+                }
             }
-            builder.append(Constant.COMMA).append(n);
+            if(end){
+                break;
+            }
+            b.append(p.val).append(",");
+            list.add(p);
+            p = p.next;
         }
-        else{
-            builder.append(Constant.RIGHT_SQUARE_BRACKET);
-        }
-        return builder.toString();
+        b.replace(b.length() - 1, b.length(), "]");
+        return b.toString();
     }
 }

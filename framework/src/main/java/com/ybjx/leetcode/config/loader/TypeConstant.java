@@ -65,6 +65,11 @@ public class TypeConstant {
     public final static String LIST_NODE = "list-node";
 
     /**
+     * 循环列表链表
+     */
+    public final static String LIST_NODE2 = "list-node2";
+
+    /**
      * 二叉树
      */
     public final static String TREE_NODE = "tree-node";

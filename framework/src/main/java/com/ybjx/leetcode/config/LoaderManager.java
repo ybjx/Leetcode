@@ -32,6 +32,7 @@ public class LoaderManager {
         loaders.put(TypeConstant.LIST, new ListLoader());
         loaders.put(TypeConstant.OBJECT, new ObjectLoader());
         loaders.put(TypeConstant.LIST_NODE, new ListNodeLoader());
+        loaders.put(TypeConstant.LIST_NODE2, new ListNode2Loader());
         loaders.put(TypeConstant.TREE_NODE, new TreeNodeLoader());
         loaders.put(TypeConstant.NODE, new NodeLoader());
         loaders.put(TypeConstant.NODE2, new Node2Loader());
