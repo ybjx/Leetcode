@@ -191,9 +191,6 @@ public class ResourceLoader {
                 throw new LeetCodeException("参数返回值配置不正确！");
             }
         }
-        if(testCase.getResultParam().size() == 0 && type.getResult().equalsIgnoreCase(TypeConstant.VOID)){
-            throw new LeetCodeException("方法返回值和参数返回值至少需要配置一个！");
-        }
         return testCase;
     }
 
