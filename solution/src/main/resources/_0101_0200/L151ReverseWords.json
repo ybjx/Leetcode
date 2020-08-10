@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "the sky is blue"
+      ],
+      "result":[
+        "blue is sky the"
+      ]
+    },
+    {
+      "param": [
+        "  hello world!  "
+      ],
+      "result":[
+        "world! hello"
+      ]
+    },
+    {
+      "param": [
+        "a good   example"
+      ],
+      "result":[
+        "example good a"
+      ]
+    }
+  ]
+}
