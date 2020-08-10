@@ -1,0 +1,26 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "array:int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [2,3,-2,4]
+      ],
+      "result":[
+        6
+      ]
+    },
+    {
+      "param": [
+        [-2,0,-1]
+      ],
+      "result":[
+        0
+      ]
+    }
+  ]
+}
