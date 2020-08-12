@@ -1,0 +1,37 @@
+{
+  "type": {
+    "result": "list-node",
+    "param": [
+      "list-node"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [4,1,8,4,5],
+        [5,0,1,8,4,5]
+      ],
+      "result":[
+        [8,4,5]
+      ]
+    },
+    {
+      "param": [
+        [0,9,1,2,4],
+        [3,2,4]
+      ],
+      "result":[
+        [2,4]
+      ]
+    },
+    {
+      "param": [
+        [2,6,4],
+
+      ],
+      "result":[
+        "example good a"
+      ]
+    }
+  ]
+}
