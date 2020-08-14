@@ -1,0 +1,20 @@
+{
+  "type": {
+    "result": "array:int",
+    "param": [
+      "array:int",
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [2, 7, 11, 15],
+        9
+      ],
+      "result":[
+        [1,2]
+      ]
+    }
+  ]
+}
