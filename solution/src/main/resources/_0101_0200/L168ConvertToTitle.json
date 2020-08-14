@@ -1,0 +1,42 @@
+{
+  "type": {
+    "result": "string",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        260
+      ],
+      "result":[
+        "IZ"
+      ]
+    },
+    {
+      "param": [
+        1
+      ],
+      "result":[
+        "A"
+      ]
+    },
+    {
+      "param": [
+        27
+      ],
+      "result":[
+        "AA"
+      ]
+    },
+    {
+      "param": [
+        28
+      ],
+      "result":[
+        "AB"
+      ]
+    }
+  ]
+}
