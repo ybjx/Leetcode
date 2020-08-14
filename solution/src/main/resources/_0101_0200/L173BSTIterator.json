@@ -1,0 +1,17 @@
+{
+  "type": {
+    "result": "void",
+    "param": [
+      "tree-node"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        [7,3,null,null,15,9,null,null,20]
+      ],
+      "result":[
+      ]
+    }
+  ]
+}
