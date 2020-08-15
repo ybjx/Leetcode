@@ -1,0 +1,34 @@
+{
+  "type": {
+    "result": "list:string",
+    "param": [
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT"
+      ],
+      "result":[
+        ["AAAAACCCCC", "CCCCCAAAAA"]
+      ]
+    },
+    {
+      "param": [
+        "AAAAAAAAAAA"
+      ],
+      "result":[
+        ["AAAAAAAAAA"]
+      ]
+    },
+    {
+      "param": [
+        "AAAAAAAAAAAA"
+      ],
+      "result":[
+        ["AAAAAAAAAA"]
+      ]
+    }
+  ]
+}
