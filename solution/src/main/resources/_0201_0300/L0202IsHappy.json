@@ -1,0 +1,18 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        19
+      ],
+      "result":[
+        true
+      ]
+    }
+  ]
+}
