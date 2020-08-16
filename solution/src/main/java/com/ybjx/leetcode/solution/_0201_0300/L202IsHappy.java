@@ -23,7 +23,7 @@ import java.util.Set;
  *       62 + 82 = 100
  *       12 + 02 + 02 = 1
  */
-public class L0202IsHappy extends AbstractSolution {
+public class L202IsHappy extends AbstractSolution {
 
     Set<String> set = new HashSet<>();
     @LeetCodeSolution
