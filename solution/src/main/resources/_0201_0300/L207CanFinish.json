@@ -1,0 +1,38 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "int",
+      "array:array:int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        3,
+        [[1,0],[1,2],[2,0]]
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        2,
+        [[1,0]]
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        2,
+        [[1,0],[0,1]]
+      ],
+      "result":[
+        false
+      ]
+    }
+  ]
+}
