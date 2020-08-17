@@ -1,0 +1,18 @@
+{
+  "type": {
+    "result": "int",
+    "param": [
+      "int"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        10
+      ],
+      "result":[
+        4
+      ]
+    }
+  ]
+}
