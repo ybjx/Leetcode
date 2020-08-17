@@ -1,0 +1,38 @@
+{
+  "type": {
+    "result": "boolean",
+    "param": [
+      "string",
+      "string"
+    ]
+  },
+  "data": [
+    {
+      "param": [
+        "egg",
+        "add"
+      ],
+      "result":[
+        true
+      ]
+    },
+    {
+      "param": [
+        "foo",
+        "bar"
+      ],
+      "result":[
+        false
+      ]
+    },
+    {
+      "param": [
+        "paper",
+        "title"
+      ],
+      "result":[
+        true
+      ]
+    }
+  ]
+}
